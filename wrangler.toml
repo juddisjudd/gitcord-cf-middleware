@@ -1,0 +1,2 @@
+[vars]
+DISCORD_WEBHOOK = "discord_webhook_url"
